@@ -59,4 +59,4 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: 9eb2998e401a9f5376f8b98578b77c9e
-          command: pages deploy ./deployment-artifact --project-name=docs-test
+          command: pages deploy ./deployment-artifact --project-name=docs-en
