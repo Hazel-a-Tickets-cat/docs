@@ -138,10 +138,16 @@ Don't forget to give the project a star! Thanks again!
 
 ### Top contributors:
 
-<a href="https://github.com/TicketsBot-cloud/docs/graphs/contributors">
+<a href="https://github.com/Chaoskjell44/docs/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=TicketsBot-cloud/docs" alt="contrib.rocks image" />
 </a>
 
+
+### Status
+
+[![Deploy mdBook site to Pages](https://github.com/Chaoskjell44/docs/actions/workflows/mdbook.yml/badge.svg?branch=master&event=deployment_status)](https://github.com/Chaoskjell44/docs/actions/workflows/mdbook.yml)
+[![Deploy mdBook site to Pages](https://github.com/Chaoskjell44/docs/actions/workflows/mdbook.yml/badge.svg?branch=master&event=issues)](https://github.com/Chaoskjell44/docs/actions/workflows/mdbook.yml)
+[![Deploy mdBook site to Pages](https://github.com/Chaoskjell44/docs/actions/workflows/mdbook.yml/badge.svg?branch=master&event=status)](https://github.com/Chaoskjell44/docs/actions/workflows/mdbook.yml)
 
 
 <!-- LICENSE -->
@@ -166,7 +172,7 @@ Project Link: [https://github.com/TicketsBot-cloud/docs](https://github.com/Tick
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/TicketsBot-cloud/docs.svg?style=for-the-badge
-[contributors-url]: https://github.com/TicketsBot-cloud/docs/graphs/contributors
+[contributors-url]: https://github.com/Chaoskjell44/docs/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/TicketsBot-cloud/docs.svg?style=for-the-badge
 [forks-url]: https://github.com/TicketsBot-cloud/docs/network/members
 [stars-shield]: https://img.shields.io/github/stars/TicketsBot-cloud/docs.svg?style=for-the-badge
