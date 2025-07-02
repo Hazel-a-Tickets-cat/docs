@@ -2,16 +2,17 @@
 ***
 
 ### Website
-[ticketsbot.cloud](https://ticketsbot.cloud/)
+[DOESN'T EXIST](https:///)
 
 ### Invite The Bot
-[invite.ticketsbot.cloud](https://invite.ticketsbot.cloud/)
+[invite.chaoskjell44.dev](https://invite.chaoskjell44.dev/)
 
 ### Dashboard
-[dashboard.ticketsbot.cloud](https://dashboard.ticketsbot.cloud/)
+[dashboard.chaoskjell44.dev](https://dashboard.chaoskjell44.dev/)
 
 ### Documentation
-[docs.ticketsbot.cloud](https://docs.ticketsbot.cloud/)
+English Docs: [docs.chaoskjell44.dev](https://docs.chaoskjell44.dev/)
+German Docs: [docs-de.chaoskjell44.dev](https://docs-de.chaoskjell44.dev/)
 
 ### Discord Support Server
-[Support Server](https://discord.gg/ticketsbot)
+[Support Server](https://discord.gg/XJYSpW4DDw)

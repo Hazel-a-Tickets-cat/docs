@@ -1,7 +1,7 @@
 # Bot Configuration: Web Dashboard
 ***
 
-First, head over to the dashboard at [dashboard.ticketsbot.cloud](https://dashboard.ticketsbot.cloud). You'll be asked to login with Discord - simply click `Authorize` and you'll be taken back to the dashboard.
+First, head over to the dashboard at [dashboard.chaoskjell44.dev](https://dashboard.chaoskjell44.dev). You'll be asked to login with Discord - simply click `Authorize` and you'll be taken back to the dashboard.
 
 ![Login](../img/login.webp)
 
@@ -61,7 +61,7 @@ A message, similar to the one following, will also be sent to your transcripts c
 
 This message will also be sent via direct messages to the user who opened the ticket. It is not possible to disable this functionality since we believe it is important for transparency purposes that users are also able to access the transcripts.
 
-If you have privacy concerns, please join our [support server](https://discord.gg/ticketsbot) to enquire. Unfortunately we are unable to answer any questions regarding your user data off-platform in order to verify your identity.
+If you have privacy concerns, please join our [support server](https://discord.gg/XJYSpW4DDw) to enquire. Unfortunately we are unable to answer any questions regarding your user data off-platform in order to verify your identity.
 
 ## Channel Category
 

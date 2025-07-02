@@ -3,15 +3,14 @@
 
 Thanks for choosing Tickets as your support solution! In this guide we'll teach you how to get up and running in no time at all.  
   
-> If you need any assistance in the process, feel free to join our [Discord server](https://discord.com/invite/ticketsbot) and open a ticket to talk to our support staff.  
-
+> If you need any assistance in the process, feel free to join our [Discord server](https://discord.gg/XJYSpW4DDw) and open a ticket to talk to our support staff. 
 ### For those with previous experience configuring Discord bots
 ***
 Quickly get the absolute basic functions of a ticket system for your server in 5 steps:
 
-**1.** [Invite the bot](https://invite.ticketsbot.cloud)   
+**1.** [Invite the bot](https://invite.chaoskjell44.dev)   
 **2.** Make yourself admin of the bot `/addadmin @YourUsername`  
-**3.** Go to the [web dashboard](https://dashboard.ticketsbot.cloud)  
+**3.** Go to the [web dashboard](https://dashboard.chaoskjell44.dev)  
 **4.** Make a [ticket panel](../setup/panels.md)  
 **5.** Go back to discord and add your staff as support so they can see and answer tickets `/addsupport @TheirUsername` or `/addsupport @TheirRole` 
 

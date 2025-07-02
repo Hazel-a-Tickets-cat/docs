@@ -5,7 +5,7 @@ Tickets allows your users to provide feedback on the support they received:
 ![Example screenshot](../../img/feedback_example.webp)
 
 ## Enabling Feedback
-In order for users to be asked to rate your service, you must first enable feedback on the [web dashboard](https://dashboard.ticketsbot.cloud/). 
+In order for users to be asked to rate your service, you must first enable feedback on the [web dashboard](https://dashboard.chaoskjell44.dev/). 
 
 Select your server and open the settings page:
 ![Enable feedback](../../img/feedback_enable.webp)
@@ -17,12 +17,15 @@ Next time a user closes a ticket, they will be asked for feedback.
 There are several ways to view feedback:
 
 ### Server Stats
-If you are a [premium](https://ticketsbot.cloud/premium) subscriber, you can view your feedback statistics with `/stats server`:
-![/stats server](../../img/feedback_stats.webp)
+<!--If you are a [premium](https://chaoskjell44.dev/premium) subscriber, you can view your feedback statistics with `/stats server`:
+![/stats server](../../img/feedback_stats.webp)-->
 
 ### User Stats
-If you are a [premium](https://ticketsbot.cloud/premium) subscriber, you can use `/stats user` to view the average rating on tickets claimed by a specific user:
-![/stats user](../../img/feedback_user.webp)
+<!--If you are a [premium](https://chaoskjell44.dev/premium) subscriber, you can use `/stats user` to view the average rating on tickets claimed by a specific user:
+![/stats user](../../img/feedback_user.webp)-->
+<div class="warning">
+Server Stats and User Stats are currently not usable! If you use them you will get an error.
+</div>
 
 ### Placeholders
 You can include the following placeholders in your welcome message to display your feedback rating to users:
