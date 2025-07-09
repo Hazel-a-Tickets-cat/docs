@@ -4,7 +4,7 @@ language = "en"
 multilingual = false
 src = "src"
 title = "Hazel a Tickets Cat | Docs DE"
-description = "Offizielle Dokumentation des Hazel a Tickets Cat Discord Bot.&#x0A; Die Deutsche Version der Docs."
+description = "Offizielle Dokumentation des Hazel a Tickets Cat Discord Bot.       Die Deutsche Version der Docs."
 
 [output.html]
 default-theme = "ayu"
