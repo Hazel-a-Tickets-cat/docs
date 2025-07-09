@@ -3,8 +3,8 @@ authors = ["rxdn", "Chaoskjell44"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Hazel a Tickets Cat Docs"
-description = "Official Documentation of the Hazel a Tickets Cat Discord Bot"
+title = "Hazel a Tickets Cat | Docs EN"
+description = "Official Documentation of the Hazel a Tickets Cat Discord Bot. The English version of the Docs."
 
 [output.html]
 default-theme = "ayu"
